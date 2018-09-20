@@ -1,0 +1,82 @@
+body{
+	margin: 0px;
+	color: white;
+	background-color: #222;
+}
+
+header{
+	background-image: url(./img/geometric-1732847_1920.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;
+	height: 100px;
+	width: auto;
+	padding: 3%;
+}
+
+header h1,h2{
+	margin: 0px;
+	padding: 0px;
+	font-weight: bold;
+}
+
+header h1{
+	font-size: 250%;
+}
+
+header h2{
+	font-size: 200%;
+}
+
+article{
+	text-align: center;
+}
+
+.navegacio{
+	background-color: #222;
+	padding: 0.1%;
+	margin: 0px;
+}
+
+	.navegacio ul li{
+		display: inline;
+	}
+
+		.navegacio ul li a{
+			font-size: 150%;
+			padding: 1%;
+			text-decoration: none;
+			color: #0BF;
+		}
+
+			.navegacio ul li a:hover{
+				background-color: #333;
+				color: #09F;
+			}
+
+#actual{
+	color: #0DF;
+	font-weight: bold;
+}
+
+#miembros{
+	width: 100%;
+	height: auto;
+}
+
+	#miembros img{
+		width: 50%;
+		height: auto;
+	}
+
+	#miembros h3{
+
+	}
+
+	#miembros h4{
+		
+	}
+
+	#miembros p{
+		
+	}
